@@ -1,0 +1,7 @@
+path: "C:/Users/Arthur/3_ambiente_de_testes/deteccao_objetos/dataset"
+train: 'train/'
+val: 'valid/'
+teste: #opcional
+
+nc: 9
+names: ['Bicycle', 'Car', 'Stairs', 'Traffic light', 'Motorcycle', 'Bus','Fire hydrant', 'Parking meter', 'Taxi']
